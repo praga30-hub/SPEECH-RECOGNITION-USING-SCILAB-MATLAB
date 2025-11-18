@@ -6,7 +6,7 @@ To perform and verify speech recognition using SCILAB.
 PC installed with SCILAB. 
 
 ### PROGRAM : 
-```
+```scilab
 //  SPEECH RECOGNITION USING SCILAB
 clc;
 clear;
